@@ -21,8 +21,5 @@ Projeto de uma Pokédex desenvolvida com HTML, CSS e JavaScript, utilizando a [P
 
 ## 🚀 Como usar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/otaviogaldino/pokedex.git
-
-2. Abra o arquivo index.html no navegador.
+acesse o link e seja feliz: 
+  https://otaviogaldino.github.io/pokedex/
